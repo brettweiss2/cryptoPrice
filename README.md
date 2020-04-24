@@ -10,3 +10,7 @@ Alternatively, you can download a prepopulated database.
 
 # Running the front end
 Run dashboard.py, then go to localhost:8050 in a browser to view the dashboard.
+
+
+# Demo video
+https://www.youtube.com/watch?v=2Oqen-ZcZhs
