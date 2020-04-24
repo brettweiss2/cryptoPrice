@@ -1,0 +1,53 @@
+html,
+body {
+  font-size: 12pt;
+  color: #dbd8e3;
+  text-align: center;
+}
+
+body {
+    background: #352f44;
+    font-family: monospace;
+}
+
+h1 {
+    color: rgb(94, 241, 251);
+    font-size: 32pt;
+    margin-top: 0px;
+    margin-bottom: -10px;
+}
+
+p {
+	font-size: 14pt;
+}
+
+input[type="radio"]{
+  margin-left: 30px;
+}
+
+.resolution {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -20px;
+	margin-bottom: 20px;
+	width: 50%;
+	font-size: 15pt;
+}
+
+.tradingPair {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -20px;
+	width: 50%;
+	text-align: center;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4e3f61;
+    text-align: center;
+}
